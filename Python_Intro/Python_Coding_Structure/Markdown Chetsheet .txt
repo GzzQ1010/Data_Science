@@ -1,0 +1,29 @@
+Headings
+Use the number sign (#) followed by a blank space for notebook titles and section headings:
+# for titles
+## for major headings
+### for subheadings
+#### for 4th level subheadings
+
+
+Emphasis
+Use the following code to emphasize text:
+Bold text: __string__ or **string**
+Italic text: _string_ or *string*
+
+Mathematical symbols
+Surround mathematical symbols with a dollar sign ($), for example:
+$ mathematical symbols $
+
+Monospace font
+Surround text with a grave accent (`) also called a back single quotation mark, for example:
+`string`
+
+You can use the monospace font for file paths, file names, message text that users see, or text that users enter.
+
+Line breaks
+Sometimes markdown doesn’t make line breaks when you want them. To force a linebreak, use the following code: <br>
+Indenting
+Use the greater than sign (>) followed by a space, for example:
+> Text that will be indented when the Markdown is rendered.
+
